@@ -1,0 +1,67 @@
+
+.el-table th.el-table__cell {
+    background-color: #f4f4f4 !important;
+}
+
+.el-table {
+    border: 1px solid rgb(239, 239, 245);
+}
+
+.el-card {
+    margin-bottom: 20px;
+}
+
+.el-button-add {
+    background-color: rgb(64, 158, 255);
+    color: white;
+}
+
+.el-button-add:hover {
+    background-color: rgba(64, 158, 255, 0.83);
+    transition: background-color 0.5s;
+    color: white;
+}
+
+.el-button-add:hover {
+    background-color: rgba(64, 158, 255, 0.83);
+    transition: background-color 0.5s;
+    color: white;
+}
+
+.el-button-add:active {
+    background-color: rgba(64, 158, 255, 0.83);
+    transition: background-color 0.5s;
+    color: white;
+}
+
+.el-button-del {
+    background-color: red;
+    color: white;
+}
+
+.el-button-text-del {
+    color: red;
+}
+
+.el-button-text-del:hover {
+    color: rgb(250, 120, 120) !important;
+    transition: color 0.5s;
+}
+
+.el-button-text-del:active {
+    color: rgb(250, 120, 120) !important;
+    transition: color 0.5s;
+}
+
+.el-button-del:hover {
+    background-color: rgb(250, 120, 120);
+    color: white;
+    transition: background-color 0.5s;
+
+}
+
+.el-button-del:active {
+    background-color: rgb(250, 120, 120);
+    color: white;
+    transition: background-color 0.5s;
+}
